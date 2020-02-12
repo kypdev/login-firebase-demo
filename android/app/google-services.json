@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221141473817",
+    "firebase_url": "https://login-demo-d9fef.firebaseio.com",
+    "project_id": "login-demo-d9fef",
+    "storage_bucket": "login-demo-d9fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221141473817:android:17a9d52573f68be73d6888",
+        "android_client_info": {
+          "package_name": "com.kypdev.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221141473817-qdp9h0kfsmirdf9r74bi66ig0asr3mth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6L-e9oCvddP045k0H0AyAzyw2LZAWlUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221141473817-qdp9h0kfsmirdf9r74bi66ig0asr3mth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
